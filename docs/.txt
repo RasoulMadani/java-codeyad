@@ -1,0 +1,3 @@
+create java complie file  javac Main.java
+
+run java files java Main.java
